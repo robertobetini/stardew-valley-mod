@@ -1,0 +1,10 @@
+{
+  "Name": "SmartPumpkins",
+  "Author": "Roberto Betini",
+  "Version": "0.1.0",
+  "Description": "This is my first mod, I still don't know what I'll be doing.",
+  "UniqueID": "RobertoBetini.SmartPumpkins",
+  "EntryDll": "SmartPumpkins.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
