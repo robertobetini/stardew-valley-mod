@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewValleyMod", "StardewValleyMod\StardewValleyMod.csproj", "{18A18579-FE09-42F9-BF5D-5F87D2A273CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewValleyMod", "src\StardewValleyMod\StardewValleyMod.csproj", "{18A18579-FE09-42F9-BF5D-5F87D2A273CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
